@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "hgame",
-    "slug": "hgame",
+    "name": "HalloWhann",
+    "slug": "HalloWhann",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -17,14 +17,14 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.anonymous.hgame"
+      "bundleIdentifier": "com.anonymous.HalloWhann"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.anonymous.hgame"
+      "package": "com.anonymous.HalloWhann"
     },
     "web": {
       "bundler": "metro",

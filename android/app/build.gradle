@@ -83,9 +83,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.anonymous.hgame'
+    namespace 'com.anonymous.HalloWhann'
     defaultConfig {
-        applicationId 'com.anonymous.hgame'
+        applicationId 'com.anonymous.HalloWhann'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

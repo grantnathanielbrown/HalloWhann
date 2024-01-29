@@ -1,4 +1,4 @@
-package com.anonymous.hgame
+package com.anonymous.HalloWhann
 
 import android.os.Build
 import android.os.Bundle
